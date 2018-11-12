@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .App-logo {
@@ -16,10 +18,44 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  width: 100%;
 }
 
 .App-link {
   color: #61dafb;
+}
+
+.map {
+    width: 80%;
+    height: 100vh;
+    background-color: rgb(230, 210, 224);
+    position: relative;
+}
+
+#pano {
+    width: 250px;
+    height: 250px;
+}
+
+#pano_title {
+    color: #525454;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.sidebar {
+  width: 20%;
+  float: right;
+  text-align: center;
+}
+
+.sidebar h3{
+  font-size: 16px;
+  font-weight: normal;
+  color: blue;
+  padding-left: 1.5em;
+  margin: auto;
 }
 
 @keyframes App-logo-spin {

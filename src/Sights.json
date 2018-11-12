@@ -1,0 +1,20 @@
+[
+{"name":"Saint Alexander Nevski Cathedral", "location":{"lat": 42.695811, "lng": 23.3329}, "id":0},
+{"name":"St. St. Cyril and Methodius Library", "location":{"lat": 42.694883, "lng": 23.335424}, "id":1},
+{"name":"Sofia University St. Kliment Ohridski", "location":{"lat": 42.693508, "lng": 23.335424},"id":2},
+{"name":"National Assembly of the Republic of Bulgaria", "location":{"lat": 42.693508, "lng": 23.33264},"id":3},
+{"name":"St. Sophia Church", "location":{"lat": 42.69652, "lng": 23.331466},"id":4},
+{"name":"Ivan Vazov National Theater", "location":{"lat": 42.694387, "lng": 23.326207},"id":5},
+{"name":"University Botanical Garden", "location":{"lat": 42.697055, "lng": 23.334555},"id":6},
+{"name":"Bulgarian Academy of Science", "location":{"lat": 42.69452, "lng": 23.33214},"id":7},
+{"name":"National Art Gallery", "location":{"lat": 42.696496, "lng": 23.327045},"id":8},
+{"name":"St. George Rotunda", "location":{"lat": 42.696912, "lng": 23.322902},"id":9},
+{"name":"St. Nedelya Cathedral Church", "location":{"lat": 42.696652, "lng": 23.321269},"id":10},
+{"name":"St. Petka Church", "location":{"lat": 42.697884, "lng": 23.322189},"id":11},
+{"name":"Regional History Museum", "location":{"lat": 42.696376, "lng": 23.323828},"id":12},
+{"name":"Palace of Justice", "location":{"lat": 42.695435, "lng": 23.320022},"id":13},
+{"name":"National Palace of Culture", "location":{"lat": 42.684725, "lng": 23.318938},"id":14},
+{"name":"Earth and People National Museum", "location":{"lat": 42.680157, "lng": 23.320845},"id":15},
+{"name":"Eagle Bridge", "location":{"lat": 42.690558, "lng": 23.337436},"id":16},
+{"name":"Lion Bridge", "location":{"lat": 42.705106, "lng": 23.323929},"id":17}
+]
